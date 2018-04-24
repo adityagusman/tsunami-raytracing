@@ -23,10 +23,10 @@ dph=dth;            % grid spacing rad
 %iyo=round((max(ya)-yo)/(ds));
 cx=abs(xa-xo);
 cxi=find(cx==min(cx));
-ixo=cxi(1)
+ixo=cxi(1);
 cy=abs(ya-yo);
 cyi=find(cy==min(cy));
-iyo=cyi(1)
+iyo=cyi(1);
 
 d(d<0)=0;
 n = 1./sqrt(9.8 * d); % slowness s/m
