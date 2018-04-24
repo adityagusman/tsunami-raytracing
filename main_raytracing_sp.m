@@ -1,7 +1,7 @@
 % main raytracing example
 % by Aditya Riadi Gusman
 % Earthquake Research Institute, the University of Tokyo
-% April, 2018
+% April, 2017
 clear all
 close all
 
