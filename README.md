@@ -14,7 +14,7 @@ rt_rungekutta_sp.m:
 runge kutta solver
 
 
-Equations and more descriptions on the tsunami raytracing method are in this paper
+Equations and descriptions on the tsunami raytracing method are in this paper
 
 Gusman, A. R., Satake, K., Shinohara, M., Sakai, S. I., & Tanioka, Y. (2017). Fault slip distribution of the 2016 Fukushima earthquake estimated from tsunami waveforms. Pure and Applied Geophysics, 174(8), 2925-2943.
 
